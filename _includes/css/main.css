@@ -23,7 +23,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primarylink }};
+    color: #{{ site.color.secondary-dark }};
 }
 
 h1,
